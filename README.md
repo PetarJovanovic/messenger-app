@@ -1,7 +1,5 @@
 # Messenger app
 
-https://messenger-app-alpha-rosy.vercel.app
-
 This is a simple realtime messenger app.
 
 ## Run Locally
@@ -27,6 +25,8 @@ After you setup .env file you will need to run:
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Live app
+
+https://messenger-app-alpha-rosy.vercel.app
 
 To be able to use app. You will need to login with your gmail account.
 To start chat with friends, you will need to send a friend request to existing user in a database.
