@@ -21,7 +21,7 @@ Before you can run app locally you will have to create .env file and put the fol
 After you setup .env file you will need to run:
 
 `npm i` and after that\
-`npx convex dev` to connect to database, and than\
+`npx convex dev` to connect to database (keep it open and running in separate terminal), and than\
 `npm run dev` for app to run locally
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
